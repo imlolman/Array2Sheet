@@ -1,0 +1,14 @@
+{
+    "name": "satya/array2sheet",
+    "description": "PHP Class to Convert Array to xlsx (Excel Sheet)",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "imlolman",
+            "email": "satyam.gupta756@gmail.com"
+        }
+    ]
+}
